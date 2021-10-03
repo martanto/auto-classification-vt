@@ -1,3 +1,6 @@
+output/tree/*
+output/trees_with_fi/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -72,8 +75,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-output/tree/
-output/trees_with_fi/
+
 
 # IPython
 profile_default/
