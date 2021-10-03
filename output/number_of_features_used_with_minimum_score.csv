@@ -1,0 +1,2 @@
+number_of_features,features,accuracy_score
+1,['amplitude__kurtosis'],0.84251968503937
