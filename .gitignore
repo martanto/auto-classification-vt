@@ -1,5 +1,4 @@
-output/tree/*
-output/trees_with_fi/*
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
