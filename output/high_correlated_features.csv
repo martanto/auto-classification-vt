@@ -1,199 +1,199 @@
 0
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
-amplitude__count_below_mean
-"amplitude__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
-amplitude__mean_abs_change
-amplitude__minimum
-amplitude__ar_coefficient__coeff_9__k_10
-"amplitude__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
-"amplitude__matrix_profile__feature_""max""__threshold_0.98"
-amplitude__number_crossing_m__m_-1
-amplitude__range_count__max_1000000000000.0__min_0
-amplitude__ratio_value_number_to_time_series_length
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""max"""
-"amplitude__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
-"amplitude__linear_trend__attr_""slope"""
-amplitude__first_location_of_minimum
-amplitude__count_above__t_0
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
-amplitude__number_crossing_m__m_0
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
-amplitude__quantile__q_0.7
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2"
-"amplitude__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
-"amplitude__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""max"""
-amplitude__lempel_ziv_complexity__bins_100
-"amplitude__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
-amplitude__abs_energy
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
-"amplitude__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
-amplitude__partial_autocorrelation__lag_1
-"amplitude__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
-"amplitude__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
-"amplitude__agg_autocorrelation__f_agg_""median""__maxlag_40"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
-"amplitude__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
-amplitude__permutation_entropy__dimension_3__tau_1
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
-amplitude__cid_ce__normalize_False
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
-"amplitude__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
-amplitude__permutation_entropy__dimension_6__tau_1
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
-amplitude__standard_deviation
-amplitude__percentage_of_reoccurring_values_to_all_values
-"amplitude__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
-amplitude__permutation_entropy__dimension_5__tau_1
-amplitude__permutation_entropy__dimension_7__tau_1
-"amplitude__fft_aggregated__aggtype_""centroid"""
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""max"""
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
-"amplitude__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
-"amplitude__matrix_profile__feature_""median""__threshold_0.98"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
-amplitude__count_below__t_0
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
-amplitude__absolute_sum_of_changes
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
-amplitude__range_count__max_1__min_-1
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""min"""
-amplitude__index_mass_quantile__q_0.7
-amplitude__quantile__q_0.2
-amplitude__fourier_entropy__bins_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
-"amplitude__matrix_profile__feature_""25""__threshold_0.98"
-amplitude__index_mass_quantile__q_0.4
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
-amplitude__ar_coefficient__coeff_8__k_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""max"""
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
-amplitude__ar_coefficient__coeff_3__k_10
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
-amplitude__quantile__q_0.3
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
-amplitude__index_mass_quantile__q_0.9
-"amplitude__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
-"amplitude__matrix_profile__feature_""75""__threshold_0.98"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2"
 "amplitude__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
-amplitude__count_above_mean
-amplitude__maximum
-"amplitude__linear_trend__attr_""intercept"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
-amplitude__quantile__q_0.8
-"amplitude__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
-amplitude__fourier_entropy__bins_5
-"amplitude__linear_trend__attr_""stderr"""
-amplitude__fourier_entropy__bins_3
-amplitude__autocorrelation__lag_7
-amplitude__ar_coefficient__coeff_4__k_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8"
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
-"amplitude__matrix_profile__feature_""mean""__threshold_0.98"
-amplitude__cid_ce__normalize_True
-"amplitude__linear_trend__attr_""rvalue"""
-amplitude__quantile__q_0.1
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""var"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""min"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
-amplitude__last_location_of_maximum
 "amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0"
-amplitude__percentage_of_reoccurring_datapoints_to_all_datapoints
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
-amplitude__number_peaks__n_1
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
-amplitude__benford_correlation
-amplitude__index_mass_quantile__q_0.6
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""min"""
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
-"amplitude__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
-amplitude__ar_coefficient__coeff_1__k_10
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""var"""
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
-amplitude__variance
-"amplitude__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
-amplitude__lempel_ziv_complexity__bins_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
-"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
-"amplitude__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
-"amplitude__fft_coefficient__attr_""imag""__coeff_1"
-amplitude__ar_coefficient__coeff_6__k_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
-amplitude__ar_coefficient__coeff_2__k_10
-"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
-amplitude__quantile__q_0.9
-amplitude__mean_change
-amplitude__autocorrelation__lag_2
-amplitude__ar_coefficient__coeff_5__k_10
-"amplitude__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max"""
-amplitude__ar_coefficient__coeff_7__k_10
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"""
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2"
+amplitude__count_above__t_0
+"amplitude__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)"
 "amplitude__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)"
-"amplitude__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
-amplitude__permutation_entropy__dimension_4__tau_1
-"amplitude__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
-amplitude__index_mass_quantile__q_0.8
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""var"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0"
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"""
+amplitude__autocorrelation__lag_7
+"amplitude__agg_autocorrelation__f_agg_""median""__maxlag_40"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6"
+amplitude__fourier_entropy__bins_10
+"amplitude__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)"
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4"
+"amplitude__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2"
+amplitude__quantile__q_0.7
+"amplitude__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)"
+"amplitude__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)"
+amplitude__quantile__q_0.9
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"""
+amplitude__index_mass_quantile__q_0.4
+amplitude__permutation_entropy__dimension_7__tau_1
+"amplitude__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)"
+amplitude__percentage_of_reoccurring_datapoints_to_all_datapoints
+amplitude__partial_autocorrelation__lag_1
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2"
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0"
+amplitude__count_below_mean
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6"
+"amplitude__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0"
 "amplitude__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""min"""
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
-amplitude__autocorrelation__lag_1
-"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
-"amplitude__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
-"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
-amplitude__index_mass_quantile__q_0.3
-"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
-"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min"""
-"amplitude__agg_autocorrelation__f_agg_""mean""__maxlag_40"
-"amplitude__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"""
+"amplitude__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4"
+amplitude__range_count__max_1__min_-1
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2"
 "amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"""
-amplitude__root_mean_square
-amplitude__last_location_of_minimum
+amplitude__quantile__q_0.1
+"amplitude__linear_trend__attr_""slope"""
+amplitude__variance
+amplitude__quantile__q_0.3
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""var"""
+amplitude__count_below__t_0
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8"
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0"
+amplitude__number_peaks__n_1
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0"
+amplitude__mean_change
+"amplitude__matrix_profile__feature_""max""__threshold_0.98"
+amplitude__minimum
+"amplitude__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""max"""
+amplitude__fourier_entropy__bins_3
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4"
+"amplitude__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)"
+amplitude__cid_ce__normalize_False
+"amplitude__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)"
+"amplitude__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)"
+"amplitude__linear_trend__attr_""stderr"""
+"amplitude__matrix_profile__feature_""median""__threshold_0.98"
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2"
+amplitude__count_above_mean
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0"
+"amplitude__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)"
+amplitude__standard_deviation
 amplitude__first_location_of_maximum
+amplitude__ar_coefficient__coeff_2__k_10
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2"
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0"
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"""
+amplitude__last_location_of_maximum
+amplitude__quantile__q_0.8
+"amplitude__matrix_profile__feature_""mean""__threshold_0.98"
+amplitude__number_crossing_m__m_0
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2"
+amplitude__permutation_entropy__dimension_6__tau_1
+amplitude__lempel_ziv_complexity__bins_100
+"amplitude__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)"
+amplitude__first_location_of_minimum
+amplitude__autocorrelation__lag_2
+"amplitude__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)"
+amplitude__percentage_of_reoccurring_values_to_all_values
+"amplitude__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)"
+"amplitude__linear_trend__attr_""intercept"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4"
+"amplitude__fft_coefficient__attr_""imag""__coeff_1"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_50__f_agg_""var"""
+"amplitude__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)"
+"amplitude__linear_trend__attr_""rvalue"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""min"""
+amplitude__number_crossing_m__m_-1
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""var"""
 amplitude__autocorrelation__lag_6
+amplitude__permutation_entropy__dimension_5__tau_1
+"amplitude__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6"
+amplitude__index_mass_quantile__q_0.3
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""min"""
+amplitude__ratio_value_number_to_time_series_length
+"amplitude__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)"
+"amplitude__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)"
+amplitude__benford_correlation
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"""
+"amplitude__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)"
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"""
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_50__f_agg_""max"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4"
+amplitude__ar_coefficient__coeff_6__k_10
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4"
+amplitude__ar_coefficient__coeff_9__k_10
+amplitude__absolute_sum_of_changes
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"""
+amplitude__fourier_entropy__bins_5
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"""
+amplitude__ar_coefficient__coeff_8__k_10
+"amplitude__matrix_profile__feature_""75""__threshold_0.98"
+amplitude__root_mean_square
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"""
+"amplitude__fft_aggregated__aggtype_""centroid"""
+amplitude__autocorrelation__lag_1
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max"""
+amplitude__quantile__q_0.2
+amplitude__index_mass_quantile__q_0.6
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6"
+amplitude__abs_energy
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"""
+"amplitude__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)"
+"amplitude__matrix_profile__feature_""25""__threshold_0.98"
+"amplitude__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"""
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean"""
+"amplitude__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)"
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0"
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0"
+amplitude__ar_coefficient__coeff_5__k_10
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8"
+amplitude__cid_ce__normalize_True
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_50__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2"
+amplitude__ar_coefficient__coeff_1__k_10
+amplitude__permutation_entropy__dimension_4__tau_1
+amplitude__index_mass_quantile__q_0.8
+"amplitude__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)"
+"amplitude__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)"
+"amplitude__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)"
+amplitude__mean_abs_change
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"""
+amplitude__maximum
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2"
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"""
+"amplitude__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)"
+amplitude__ar_coefficient__coeff_3__k_10
+"amplitude__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"""
+"amplitude__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)"
+amplitude__index_mass_quantile__q_0.7
+amplitude__range_count__max_1000000000000.0__min_0
+amplitude__permutation_entropy__dimension_3__tau_1
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"""
+"amplitude__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"""
+"amplitude__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0"
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"""
+amplitude__ar_coefficient__coeff_4__k_10
+"amplitude__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)"
+amplitude__ar_coefficient__coeff_7__k_10
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2"
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""max"""
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2"
+"amplitude__agg_autocorrelation__f_agg_""mean""__maxlag_40"
+"amplitude__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4"
+amplitude__last_location_of_minimum
+"amplitude__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"""
+"amplitude__agg_linear_trend__attr_""rvalue""__chunk_len_50__f_agg_""min"""
+amplitude__lempel_ziv_complexity__bins_10
+amplitude__index_mass_quantile__q_0.9
