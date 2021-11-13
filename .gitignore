@@ -116,3 +116,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.mseed
+*.csv
+*.jpg
+*.tiff
+*.svg
+*.csv
+*.tiff
